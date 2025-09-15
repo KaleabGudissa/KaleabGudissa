@@ -84,7 +84,7 @@ I am a **Computer Science & Software Engineering student** at the University of 
 
 ## 📌 Featured Projects  
 
-- **[Resume Analyzer](https://github.com/KaleabGudissa)** – AI-powered resume analyzer with smart suggestions.  
+- **[Resume Analyzer](https://resume-analyzer0.netlify.app/)** – AI-powered resume analyzer with smart suggestions.  
 - **[Secure Incident Reporter](https://github.com/KaleabGudissa)** – C++ platform for safe citizen incident reporting.  
 - **[SimpChat!](https://github.com/KaleabGudissa)** – Creative AI-enhanced group chat app (**React + C++**).  
 - **[Bioinformatics Research](https://github.com/KaleabGudissa)** – Mutation analysis & survival studies with **TCGA data**.  
