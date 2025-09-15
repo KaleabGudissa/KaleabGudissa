@@ -135,5 +135,5 @@ I am a **Computer Science & Software Engineering student** at the University of 
 <p align="center">
   🚀 It’s not only humans.<br>
   🤖 Not only AI either.<br>
-  🌍 Humans + AI together will change the world!
+  🌍 Humans + AI together will change the world!!
 </p>
