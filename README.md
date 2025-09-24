@@ -8,7 +8,7 @@
 
 ## 📝 About Me  
 
-I am a **Computer Science & Software Engineering student** at the University of Washington Bothell, expected to graduate in **Fall 2026**. Over the past years, I have built a strong foundation in **C++, Python, and web technologies** while gaining hands-on experience through internships and collaborative projects. My work spans from **AI-powered tools and secure platforms** to **interactive, user centered well-designed web applications** that reflect my passion for both functionality and aesthetics. Beyond coding, I focus on creating solutions that are not only **scalable and reliable** but also **visually engaging and easy to use**.  
+I am a Computer Science & Software Engineering student at the University of Washington Bothell, expected to graduate in Fall 2026. Over the past years, I have built a strong foundation in C++, Python, and web technologies while gaining hands-on experience through internships and collaborative projects. My work spans from AI-powered tools and secure platforms to interactive, user centered well-designed web applications that reflect my passion for both functionality and aesthetics. Beyond coding, I focus on creating solutions that are not only scalable and reliable but also visually engaging and easy to use.  
 
 ---
 
